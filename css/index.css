@@ -1,0 +1,26 @@
+.title{
+    display:block;
+    width:3.17rem;
+    margin:2.67rem auto 1.10rem;
+}
+.mode{
+    width:4.75rem;
+    height:1.51rem;
+    background:url("../img/绿色按钮_底.png") no-repeat;
+    background-size:100%;
+    margin:0 auto 0.8rem;
+    overflow:hidden;
+}
+.mode>img{
+    display:block;
+    width:3.2rem;
+    margin:0.24rem auto 0;
+}
+.mode1{
+    background:url("../img/黄色按钮_底.png") no-repeat;
+    background-size:100%;
+}
+.mode2{
+    background:url("../img/蓝色按钮_底.png") no-repeat;
+    background-size:100%;
+}
